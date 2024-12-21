@@ -1,13 +1,13 @@
 # AI Code Explainer
 
-An AI-powered application that provides detailed explanations of code snippets using LangChain and Llama 2 (via Groq Cloud).
+An AI-powered application that provides detailed explanations of code snippets using LangChain and Llama 3.3 (via Groq Cloud).
 
 ## Features
 
 - Paste any code snippet and get a detailed explanation
 - Covers purpose, functionality, key components, and best practices
 - Modern and user-friendly interface built with Streamlit
-- Powered by Llama 2 70B model through Groq Cloud
+- Powered by Llama 3.3 70B versatile model through Groq Cloud
 
 ## Setup
 
